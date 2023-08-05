@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">WorkbookChap6</string>
+    <string name="menu_home">홈</string>
+    <string name="menu_setting">설정</string>
+    <string name="menu_heart">좋아요</string>
+    <string name="menu_airplane">메세지</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
